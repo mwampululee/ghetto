@@ -2,21 +2,21 @@
   "carouselData": [
     {
       "id": 1,
-      "image": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/carousel1.jpg",
-      "title": "Premium Content",
-      "subtitle": "Exclusive shows and movies"
+      "image": "https://i.postimg.cc/Y9MVK3kh/seagulls-9710076-1280.jpg",
+      "title": "Tamthili",
+      "subtitle": "Angalia tamthilia kali kila siku"
     },
     {
       "id": 2,
-      "image": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/carousel2.jpg",
-      "title": "Live Sports",
-      "subtitle": "Never miss a moment"
+      "image": "https://i.postimg.cc/PxC6kF9f/african-couple-cinema.jpg",
+      "title": "Michezo",
+      "subtitle": "Vipindi Bomba vya michezo hapa Supasoka tv"
     },
     {
       "id": 3,
-      "image": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/carousel3.jpg",
-      "title": "4K Ultra HD",
-      "subtitle": "Crystal clear quality"
+      "https://i.postimg.cc/tg4170Xb/view-3d-cinema-clapperboard.jpg",
+      "title": "Taarifa za Habari",
+      "subtitle": "Pata habari mbali mbali kiganjani mwako"
     }
   ],
 "channels": [
