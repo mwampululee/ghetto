@@ -1,1 +1,152 @@
-
+{
+  "carouselData": [
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/carousel1.jpg",
+      "title": "Premium Content",
+      "subtitle": "Exclusive shows and movies"
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/carousel2.jpg",
+      "title": "Live Sports",
+      "subtitle": "Never miss a moment"
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/carousel3.jpg",
+      "title": "4K Ultra HD",
+      "subtitle": "Crystal clear quality"
+    }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "name": "Zbc2",
+      "category": "news",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/zbc2.png",
+      "color": ["#ef4444", "#b91c1c"],
+      "viewers": "2.1M",
+      "hd": true,
+      "videoUrl": "https://example.com/streams/zbc2.m3u8"
+    },
+    {
+      "id": 2,
+      "name": "Azam Sports 1",
+      "category": "sports",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/azam_sports1.png",
+      "color": ["#f97316", "#ea580c"],
+      "viewers": "3.4M",
+      "hd": true,
+      "videoUrl": "https://example.com/streams/azam_sports1.m3u8"
+    },
+    {
+      "id": 3,
+      "name": "Azam two",
+      "category": "movies",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/azam_two.png",
+      "color": ["#8b5cf6", "#7c3aed"],
+      "viewers": "1.8M",
+      "hd": true,
+      "videoUrl": "https://example.com/streams/azam_two.m3u8"
+    },
+    {
+      "id": 4,
+      "name": "Wasafi Tv",
+      "category": "entertainment",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/wasafi.png",
+      "color": ["#ec4899", "#db2777"],
+      "viewers": "1.2M",
+      "hd": false,
+      "videoUrl": "https://example.com/streams/wasafi.m3u8"
+    },
+    {
+      "id": 5,
+      "name": "Tbc 1",
+      "category": "news",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/tbc1.png",
+      "color": ["#14b8a6", "#0d9488"],
+      "viewers": "1.5M",
+      "hd": true,
+      "videoUrl": "https://example.com/streams/tbc1.m3u8"
+    },
+    {
+      "id": 6,
+      "name": "SuperSports",
+      "category": "sports",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/supersports.png",
+      "color": ["#f59e0b", "#d97706"],
+      "viewers": "2.7M",
+      "hd": true,
+      "videoUrl": "https://example.com/streams/supersports.m3u8"
+    },
+    {
+      "id": 7,
+      "name": "Cartoon",
+      "category": "movies",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/cartoon.png",
+      "color": ["#3b82f6", "#2563eb"],
+      "viewers": "2.3M",
+      "hd": true,
+      "videoUrl": "https://example.com/streams/cartoon.m3u8"
+    },
+    {
+      "id": 8,
+      "name": "Safari",
+      "category": "entertainment",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/safari.png",
+      "color": ["#a855f7", "#9333ea"],
+      "viewers": "0.9M",
+      "hd": false,
+      "videoUrl": "https://example.com/streams/safari.m3u8"
+    },
+    {
+      "id": 9,
+      "name": "Channel 10",
+      "category": "news",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/channel10.png",
+      "color": ["#10b981", "#059669"],
+      "viewers": "1.1M",
+      "hd": true,
+      "videoUrl": "https://example.com/streams/channel10.m3u8"
+    },
+    {
+      "id": 10,
+      "name": "Azam Sports 2",
+      "category": "sports",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/azam_sports2.png",
+      "color": ["#ef4444", "#dc2626"],
+      "viewers": "3.1M",
+      "hd": true,
+      "videoUrl": "https://example.com/streams/azam_sports2.m3u8"
+    },
+    {
+      "id": 11,
+      "name": "Sinema Zetu",
+      "category": "movies",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/sinemazetu.png",
+      "color": ["#000000", "#333333"],
+      "viewers": "5.3M",
+      "hd": true,
+      "videoUrl": "https://example.com/streams/sinemazetu.m3u8"
+    },
+    {
+      "id": 12,
+      "name": "Maisha Magic",
+      "category": "entertainment",
+      "logo": "https://raw.githubusercontent.com/mwampululee/ghetto/main/myAppData/images/logos/maishamagic.png",
+      "color": ["#ec4899", "#be185d"],
+      "viewers": "0.8M",
+      "hd": false,
+      "videoUrl": "https://example.com/streams/maishamagic.m3u8"
+    }
+  ],
+  "categories": [
+    { "id": "all", "name": "All Channels", "icon": "📺" },
+    { "id": "news", "name": "News", "icon": "📰" },
+    { "id": "sports", "name": "Sports", "icon": "⚽" },
+    { "id": "movies", "name": "Movies", "icon": "🎬" },
+    { "id": "entertainment", "name": "Entertainment", "icon": "🎭" },
+    { "id": "music", "name": "Music", "icon": "🎵" }
+  ]
+}
